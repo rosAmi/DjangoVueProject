@@ -6,7 +6,7 @@ DB - sqlite
 
 
 Run Django server > 
-python manage.py runserver  <or> ./manage.py runserver
+python manage.py runserver  [or] ./manage.py runserver
 
 Run Vue >
 npm run serve
